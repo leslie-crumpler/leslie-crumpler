@@ -34,7 +34,7 @@ Backend authentication system designed with security as a primary focus. Impleme
 RESTful API built with Flask for managing and querying movie data. Focuses on clean endpoint design, consistent responses, and structured database relationships.
 
 ### 📋 [task-manager-app](https://github.com/leslie-crumpler/task-manager-app)
-Task management backend — simple concept, but a great canvas for practicing solid CRUD design, validation, and structuring a Flask app that doesn't become a mess at scale.
+Task management backend - simple concept, but a great canvas for practicing solid CRUD design, validation, and structuring a Flask app that doesn't become a mess at scale.
 
 ### 🔍 [log-analyzer](https://github.com/leslie-crumpler/log-analyzer)
 Backend service for managing tasks with CRUD operations, validation, and an organized application structure to keep the codebase maintainable as features grow.
