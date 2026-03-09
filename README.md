@@ -9,14 +9,17 @@ My work centers on Python-based backend development, REST APIs, database-driven 
 ## 🛠️ Technical Focus
 
 **Languages** 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend & APIs**  
+**Backend & APIs** 
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
 
 **Security & Analysis**  
+
 ![Security](https://img.shields.io/badge/Secure_Auth-2D3748?style=flat-square&logo=shield&logoColor=white)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-2C5282?style=flat-square&logo=elastic&logoColor=white)
 
