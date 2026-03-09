@@ -1,66 +1,59 @@
-# Hi, I'm Leslie Crumpler 👋
+# Hello, I'm Leslie Crumpler 👋
 
-I'm a backend developer and cybersecurity enthusiast who genuinely enjoys the craft of building things that hold up under pressure. Whether that's an API that handles edge cases gracefully, a log parser that surfaces real insights, or an auth system that actually keeps the bad guys out — I care about writing software that's both **secure** and **reliable**.
+I am a software development and cybersecurity student focused on backend development, secure coding, and reliable system design. I enjoy building applications that emphasize strong architecture, clear logic, and security from the start rather than as an afterthought.
 
-I'm relatively new to sharing work publicly, but I've been building and learning for a while. This is me getting better at showing that.
+My work centers on Python-based backend development, REST APIs, database-driven applications, and tools that help analyze and manage data efficiently. I am currently expanding my experience with cloud platforms, containerization, and secure application design.
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ Technical Focus
 
-**Languages & Core**  
+**Languages** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & APIs**  
+**Backend & APIs**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
 
-**Cybersecurity Focus**  
+**Security & Analysis**  
 ![Security](https://img.shields.io/badge/Secure_Auth-2D3748?style=flat-square&logo=shield&logoColor=white)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-2C5282?style=flat-square&logo=elastic&logoColor=white)
 
 ---
 
-## 📂 Projects I'm Proud Of
+## 📂 Selected Projects
 
 ### 🔐 [secure-auth-system](https://github.com/leslie-crumpler/secure-auth-system)
-A backend authentication system built with security as a first principle — not an afterthought. Covers token management, session handling, and the kind of edge cases that bite you in production.
+Backend authentication system designed with security as a primary focus. Implements token handling, session management, and defensive checks to handle common authentication edge cases.
 
 ### 🎬 [movie-database-api](https://github.com/leslie-crumpler/movie-database-api)
-A RESTful API built with Flask for managing and querying a movie database. Good exercise in clean endpoint design, database relationships, and response consistency.
+RESTful API built with Flask for managing and querying movie data. Focuses on clean endpoint design, consistent responses, and structured database relationships.
 
 ### 📋 [task-manager-app](https://github.com/leslie-crumpler/task-manager-app)
 Task management backend — simple concept, but a great canvas for practicing solid CRUD design, validation, and structuring a Flask app that doesn't become a mess at scale.
 
 ### 🔍 [log-analyzer](https://github.com/leslie-crumpler/log-analyzer)
-A Python tool for parsing and analyzing log files. Built because reading raw logs is painful, and pattern detection should be automated.
+Backend service for managing tasks with CRUD operations, validation, and an organized application structure to keep the codebase maintainable as features grow.
 
 ### 🔗 [url-shortener](https://github.com/leslie-crumpler/url-shortener)
-Classic project, but mine focuses on the backend mechanics — hashing, collision handling, and clean redirect logic.
+Backend-focused URL shortening service implementing hashing, collision handling, and redirect logic.
 
 ---
 
-## 🌱 What I'm Working On
+## 🌱 Current Learning Goals
 
-- Deepening my knowledge of **application security** and secure coding patterns
-- Getting more comfortable with **containerization** (Docker) and deployment
-- Building projects that go end-to-end, not just the happy path
-
----
-
-## 💬 A Bit More About Me
-
-I'm drawn to the backend because I like understanding *how* things work, not just that they do. Security pulled me in for the same reason — it forces you to think like someone trying to break what you built, which makes you a better builder.
-
-I'm always open to connecting with other developers, especially folks working at the intersection of backend and security.
+- Expanding knowledge of secure application design
+- Improving experience with containerization and deployment tools such as Docker
+- Building end-to-end backend systems that include APIs, databases, and cloud deployment
 
 ---
 
-## 📫 Let's Connect
+## 💬 About Me
 
-Feel free to explore my repos, open an issue, or reach out. I'm early in my public GitHub journey and always looking to improve.
+I am particularly interested in the intersection of backend development and cybersecurity. Designing systems that are both reliable and secure requires thinking about how software behaves in real-world conditions, including unexpected inputs and adversarial behavior.
+
+I enjoy building tools, experimenting with new technologies, and continuously improving my understanding of modern backend systems.
 
 ---
 
-*"The best code is code that doesn't need to be explained — but the second best is code with really good comments."*
